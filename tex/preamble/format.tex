@@ -81,9 +81,13 @@
 
         \setcounter{tocdepth}{0}
 
-        \titlecontents{part}[0pt]
-            {\filcenter\bfseries}{\thecontentslabel\\}{}
-            {}[\vspace{2ex}]
+        \titlecontents{part}
+            [0pt] % left 
+            {\vspace*{5ex}\filcenter\bfseries} % above-code
+            {\thecontentslabel\\} % numbered format entry
+            {} % numberless format entry 
+            {} % filler page format
+            [] % below code
 
         \dottedcontents
             {chapter} % section 
@@ -121,7 +125,7 @@
 
 % ENUMERATOR SETUP
 
-    \usepackage[inline]{enumitem}
+    % \usepackage[inline]{enumitem}
 
 % NEW FLOATS SETUP
 
