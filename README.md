@@ -1,14 +1,4 @@
-# Μετάφραση του *Source Readings In Music History*, Oliver Strunk. 1950
-
-## Το κείμενο στα αγγλικά
-
-Το πρωτότυπο κείμενο στα αγγλικά μπορεί να βρεθεί στο archive.org, που παρέχει αρχεία που βρίσκονται στο public domain.
-
-### To pdf στο archive
-https://archive.org/details/in.ernet.dli.2015.29049
-
-### Απλό κείμενο στο archive
-https://archive.org/stream/in.ernet.dli.2015.29049/2015.29049.Source-Readings-In-Music-History_djvu.txt
+# Μεταφράσεις πρωτογενών πηγών (source reading) της Ιστορίας της μουσικής
 
 ## Προαπαιτούμενα για την ψηφιακή τύπωση του κειμένου
 
