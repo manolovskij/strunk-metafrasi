@@ -48,11 +48,6 @@ Ars Nova
 
 [Beethoven's Letters 1790-1826, Volume 2](https://www.gutenberg.org/ebooks/13272)
 
-#### Berlioz, Hector `1803-1869`
-
-[The Life of Hector Berlioz as Written by Himself in His Letters and Memoirs](https://www.gutenberg.org/ebooks/62668)
-[The Orchestral Conductor: Theory of His Art](https://www.gutenberg.org/ebooks/27646)
-
 #### Mendelssohn, Felix `1809-1847`
 
 [Letters of Felix Mendelssohn-Bartholdy from 1833 to 1847](https://www.gutenberg.org/ebooks/50473)
@@ -91,6 +86,11 @@ Ars Nova
 #### Wagner, Richard `1813-1883`
 
 [On Conducting (Üeber Das Dirigiren) : A Treatise on Style in the Execution of Classical Music](https://www.gutenberg.org/ebooks/4523)
+
+#### Berlioz, Hector `1803-1869`
+
+[The Life of Hector Berlioz as Written by Himself in His Letters and Memoirs](https://www.gutenberg.org/ebooks/62668)
+[The Orchestral Conductor: Theory of His Art](https://www.gutenberg.org/ebooks/27646)
 
 ### Όπερα
 ---
