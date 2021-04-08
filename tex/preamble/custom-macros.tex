@@ -8,18 +8,22 @@
     \pagestyle{texts}
 
     \chapter[%
-        \originalauthor\ -- \emph{\translatedtitle}\ \yearpublished\\%
+        \originalauthor\ -- \emph{\translatedtitle}, \yearpublished\\%
         {\normalfont\emph{μετάφραση:} \maintranslator}%
     ]{\originalauthor}
 
-    \begin{preface}%
-        #5%
-    \end{preface}%
+    \def\temp{#5}\ifx\temp\empty
+        \relax%
+    \else
+        \begin{preface}%
+            #5%
+        \end{preface}%
+    \fi    
 
     \begin{center}
         \textbf{\translatedtitle}
     
-        μετάφραση: \maintranslator
+        \emph{μετάφραση}: \maintranslator
     \end{center}
     
     \noindent

@@ -7,3 +7,5 @@
 *.toc
 *.code-workspace
 *.aux
+__latexindent_temp.tex
+*.toc
